@@ -110,6 +110,7 @@ export const BackView = (backContents: BackContents) => {
         <>
             <div className="back-box youth-y1 kr">
 
+
                 <div className="back-text back-yojeol yojeol-title">다음 주 <span className="ch">午前 要節</span></div>
                 <div className="back-text back-yojeol">
                     {backContents.yojeol.morning.words}
